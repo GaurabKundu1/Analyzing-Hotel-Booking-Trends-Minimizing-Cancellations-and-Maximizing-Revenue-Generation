@@ -36,3 +36,11 @@ The focal points of this report are the analysis of hotel booking cancellations 
 
 - How can hotels receive guidance in formulating pricing and promotional strategies to address cancellations?
 
+### Hypothesis
+
+- Increased cancellation rates correlate with higher pricing structures.
+
+- Longer waiting lists tend to prompt more frequent cancellations from customers.
+
+- A significant majority of clients make reservations through offline travel agents.
+
