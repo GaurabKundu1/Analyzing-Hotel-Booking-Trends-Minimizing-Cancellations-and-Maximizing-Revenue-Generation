@@ -12,3 +12,18 @@ In recent years, both the City Hotel and Resort Hotel have encountered substanti
 
 The focal points of this report are the analysis of hotel booking cancellations and the exploration of various factors unrelated to their business operations and annual revenue generation.
 
+### Assumptions
+
+- No significant anomalies occurred between 2015 and2017 that would substantially impact the utilized data.
+
+- The provided information remains current and viable for efficient analysis of potential hotel strategies.
+
+- There are no unforeseen adverse effects anticipated if the hotel implements any recommended techniques.
+
+- The hotels presently do not employ any of the proposed solutions.
+
+- Cancellations are the predominant factor influencing income generation effectiveness.
+
+- Cancellations lead to unoccupied rooms for the duration of the booked period.
+
+- Clients make hotel reservations within the same year they initiate cancellations.
