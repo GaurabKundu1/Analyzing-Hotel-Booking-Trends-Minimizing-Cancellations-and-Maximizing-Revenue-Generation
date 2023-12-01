@@ -46,3 +46,6 @@ The focal points of this report are the analysis of hotel booking cancellations 
 
 - A significant majority of clients make reservations through offline travel agents.
 
+### Analysis & Findings
+
+<img src="https://github.com/GaurabKundu1/Analyzing-Hotel-Booking-Trends-Minimizing-Cancellations-and-Maximizing-Revenue-Generation/assets/86102231/3eddd788-e254-477e-9b48-d91d628679e7">
