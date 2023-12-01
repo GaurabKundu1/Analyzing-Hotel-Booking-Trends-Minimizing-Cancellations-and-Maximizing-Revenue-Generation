@@ -6,3 +6,9 @@
 
 This project focuses on analyzing hotel booking trends, specifically aimed at reducing cancellations and maximizing revenue for both City and Resort Hotels. The primary goal is to provide comprehensive insights and strategic recommendations to address substantial cancellation rates impacting revenue and room occupancy.
 
+### Business Problem
+
+In recent years, both the City Hotel and Resort Hotel have encountered substantial cancellation rates, resulting in several challenges such as reduced revenue and suboptimal room occupancy. As a crucial priority for these establishments, reducing cancellation rates stands as the primary objective to enhance revenue generation efficiency. Our aim is to provide comprehensive business advice to tackle this issue effectively.
+
+The focal points of this report are the analysis of hotel booking cancellations and the exploration of various factors unrelated to their business operations and annual revenue generation.
+
