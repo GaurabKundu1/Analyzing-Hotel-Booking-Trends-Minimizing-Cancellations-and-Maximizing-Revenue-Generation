@@ -72,3 +72,6 @@ The focal points of this report are the analysis of hotel booking cancellations 
 
 - We'll examine the sources from which guests make hotel reservations — direct, groups, online, or offline travel agents. Approximately 46% of client sopt for online travel agencies, while 27% book through groups. Only 4% of clients directly visit hotels to make their reservations.
 
+<img src="https://github.com/GaurabKundu1/Analyzing-Hotel-Booking-Trends-Minimizing-Cancellations-and-Maximizing-Revenue-Generation/assets/86102231/f00b243b-136f-42f0-b72e-187a1a5f56ca">
+
+<img src="https://github.com/GaurabKundu1/Analyzing-Hotel-Booking-Trends-Minimizing-Cancellations-and-Maximizing-Revenue-Generation/assets/86102231/fdfd4702-ea55-4307-b080-0d99f150ceca">
