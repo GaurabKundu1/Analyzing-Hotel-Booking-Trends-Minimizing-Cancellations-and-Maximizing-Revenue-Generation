@@ -49,3 +49,26 @@ The focal points of this report are the analysis of hotel booking cancellations 
 ### Analysis & Findings
 
 <img src="https://github.com/GaurabKundu1/Analyzing-Hotel-Booking-Trends-Minimizing-Cancellations-and-Maximizing-Revenue-Generation/assets/86102231/3eddd788-e254-477e-9b48-d91d628679e7">
+
+- The bar graph illustrates the proportion of reservations that were canceled against those that were not. Notably, a considerable portion of reservations remains unaffected by cancellations. Approximately 37% of clients canceled their reservations, exerting a substantial impact on the hotels' earnings.
+
+<img src="https://github.com/GaurabKundu1/Analyzing-Hotel-Booking-Trends-Minimizing-Cancellations-and-Maximizing-Revenue-Generation/assets/86102231/b410f6b0-46b2-4bde-860a-4b6713237a8c">
+
+- City hotels exhibit a higher volume of bookings compared to resort hotels. This discrepancy might suggest that resort accommodations potentially carry a higher price tag than those located in urban areas.
+
+<img src="https://github.com/GaurabKundu1/Analyzing-Hotel-Booking-Trends-Minimizing-Cancellations-and-Maximizing-Revenue-Generation/assets/86102231/f1e9f07e-3745-46e2-a883-9b027350558c">
+
+- The line graph indicates fluctuations in the average daily rate (ADR) between certain days. It's apparent that some days register a lower ADR than that of a resort hotel, and on other days, it's even lower. This trend hints at potential increases in resort hotel rates during weekends and holidays.
+
+<img src="https://github.com/GaurabKundu1/Analyzing-Hotel-Booking-Trends-Minimizing-Cancellations-and-Maximizing-Revenue-Generation/assets/86102231/a6c8b3fb-ddcb-4d64-95d8-147524608f2c">
+
+- We've constructed a grouped bar graph to assess the months with the highest and lowest reservation levels based on their status. It's evident that both confirmed reservations and canceled reservations peak in August. Conversely, January stands out as the month with the highest count of canceled reservations.
+
+<img src="https://github.com/GaurabKundu1/Analyzing-Hotel-Booking-Trends-Minimizing-Cancellations-and-Maximizing-Revenue-Generation/assets/86102231/32e57512-b2fb-4095-9ff8-0aa58e0932ce">
+
+- The bar graph showcases a pattern where cancellations are most frequent when accommodation prices are at their highest and least frequent when prices are at their lowest. Hence, the cost of accommodation appears to be the primary driver behind cancellations. Additionally,analyzing countries with the highest reservation cancellations reveals Portugal at the top with the highest number of cancellations.
+
+<img src="https://github.com/GaurabKundu1/Analyzing-Hotel-Booking-Trends-Minimizing-Cancellations-and-Maximizing-Revenue-Generation/assets/86102231/8d40cac4-41f0-4038-92b0-d7bcc030680b">
+
+- We'll examine the sources from which guests make hotel reservations — direct, groups, online, or offline travel agents. Approximately 46% of client sopt for online travel agencies, while 27% book through groups. Only 4% of clients directly visit hotels to make their reservations.
+
