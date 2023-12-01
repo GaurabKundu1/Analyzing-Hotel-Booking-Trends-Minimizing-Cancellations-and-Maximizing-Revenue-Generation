@@ -27,3 +27,12 @@ The focal points of this report are the analysis of hotel booking cancellations 
 - Cancellations lead to unoccupied rooms for the duration of the booked period.
 
 - Clients make hotel reservations within the same year they initiate cancellations.
+
+### Research Questions
+
+- What variables contribute to hotel reservation cancellations?
+
+- What strategies can improve hotel reservation cancellation rates?
+
+- How can hotels receive guidance in formulating pricing and promotional strategies to address cancellations?
+
