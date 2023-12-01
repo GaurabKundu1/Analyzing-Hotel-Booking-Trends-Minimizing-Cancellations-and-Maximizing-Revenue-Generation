@@ -77,3 +77,13 @@ The focal points of this report are the analysis of hotel booking cancellations 
 <img src="https://github.com/GaurabKundu1/Analyzing-Hotel-Booking-Trends-Minimizing-Cancellations-and-Maximizing-Revenue-Generation/assets/86102231/fdfd4702-ea55-4307-b080-0d99f150ceca">
 
 - The graph illustrates that reservations tend to be canceled more frequently when the average daily rate (ADR) is higher compared to instances where reservations remain unaffected. This further validates the earlier analysis, affirming that elevated prices indeed contribute to increased cancellation rates.
+
+### Suggestions
+
+- To mitigate reservation cancellations, hotels might consider revising their pricing strategies by offering targeted discounts for specific locations or lowering rates. Providing consumer discounts could also deter cancellations.
+
+- Considering the higher cancellation ratio in resort hotels compared to city hotels, offering reasonable discounts during weekends or holidays specifically for resort accommodations could help balance cancellation rates.
+
+- Initiating campaigns or promotional offers in January could help bolster revenue considering the increased cancellations during this month.
+
+- Enhancing the quality of services and hotel amenities in Portugal could potentially aid in reducing cancellation rates in that region.
