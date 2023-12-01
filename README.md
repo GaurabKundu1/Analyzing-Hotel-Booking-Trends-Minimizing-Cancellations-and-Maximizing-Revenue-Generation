@@ -75,3 +75,5 @@ The focal points of this report are the analysis of hotel booking cancellations 
 <img src="https://github.com/GaurabKundu1/Analyzing-Hotel-Booking-Trends-Minimizing-Cancellations-and-Maximizing-Revenue-Generation/assets/86102231/f00b243b-136f-42f0-b72e-187a1a5f56ca">
 
 <img src="https://github.com/GaurabKundu1/Analyzing-Hotel-Booking-Trends-Minimizing-Cancellations-and-Maximizing-Revenue-Generation/assets/86102231/fdfd4702-ea55-4307-b080-0d99f150ceca">
+
+- The graph illustrates that reservations tend to be canceled more frequently when the average daily rate (ADR) is higher compared to instances where reservations remain unaffected. This further validates the earlier analysis, affirming that elevated prices indeed contribute to increased cancellation rates.
