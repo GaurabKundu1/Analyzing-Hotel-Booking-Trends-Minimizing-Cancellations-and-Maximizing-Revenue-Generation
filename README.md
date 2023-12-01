@@ -1,5 +1,7 @@
 # Analyzing Hotel Booking Trends: Minimizing Cancellations and Maximizing Revenue Generation
 
+<img src="https://github.com/GaurabKundu1/Analyzing-Hotel-Booking-Trends-Minimizing-Cancellations-and-Maximizing-Revenue-Generation/assets/86102231/ccab3234-edfc-4745-95ff-fff30aa0d708">
+
 ## Author: [Gaurab Kundu](https://www.linkedin.com/in/gaurab-kundu)
 
 ### Project Description
