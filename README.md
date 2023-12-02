@@ -87,3 +87,5 @@ The focal points of this report are the analysis of hotel booking cancellations 
 - Initiating campaigns or promotional offers in January could help bolster revenue considering the increased cancellations during this month.
 
 - Enhancing the quality of services and hotel amenities in Portugal could potentially aid in reducing cancellation rates in that region.
+
+[Download the Report From Here](https://github.com/GaurabKundu1/Analyzing-Hotel-Booking-Trends-Minimizing-Cancellations-and-Maximizing-Revenue-Generation/blob/main/Analyzing%20Hotel%20Booking%20Trends%20Minimizing%20Cancellations%20and%20Maximizing%20Revenue%20Generation%20Report.pdf)
